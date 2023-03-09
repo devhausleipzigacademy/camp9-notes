@@ -89,3 +89,7 @@ getValue("baz"); // Error: Argument of type '"baz"' is not assignable to paramet
 ```
 
 Using `typeof` and `keyof` together like this can help catch errors at compile-time, rather than waiting until runtime.
+
+## Utility Types
+
+![[TS - Utility Types#^1a8ec0]]

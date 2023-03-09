@@ -22,6 +22,23 @@ const myFunction = function() {
 In addition to traditional functions, JavaScript also supports arrow functions, which provide a shorter syntax for writing functions. Here's an example of an arrow function that returns the square of a number:
 
 ```JS
-const square = (num) => num * num;
+function square(num){
+return num * num
+}
+
+const squareTwo = (num) => {
+return num * num
+};
+
+const squareThree = num => {
+return num * num
+};
+
+const squareFour = num => num * num;
+
+
+const signUpBtn = document.querySelector(".btn-signup");
+
+signUpBtn.addEventListener("click", console.log());
 ```
 

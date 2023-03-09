@@ -50,3 +50,7 @@ There are three ways to apply CSS to our markup. They are ordered by specifity (
 ## What Units to use in CSS?
 
 ![[CSS - Units#^f95892]]
+
+## Media Queries
+
+![[CSS - Media Query#^5b5c74]]
