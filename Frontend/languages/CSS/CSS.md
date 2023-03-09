@@ -51,3 +51,6 @@ There are three ways to apply CSS to our markup. They are ordered by specifity (
 
 ![[CSS - Units#^f95892]]
 
+## Media Queries
+
+![[CSS - Media Query#^5b5c74]]
