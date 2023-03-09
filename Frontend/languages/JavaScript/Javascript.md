@@ -10,7 +10,7 @@
 ![[JS - Simple data types#^41e4f4]]
 
 
-## JS - Complex Data Types
+## Complex Data Types
 
 ### Arrays
 

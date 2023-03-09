@@ -1,4 +1,4 @@
-The `nextElementSibling` and `previousElementSibling` are two properties that can be used to [[JS - Navigate between adjacent siblings|navigate between adjacent siblings]] in the Document Object Model (DOM) using JavaScript. ^1ee8aa
+The `nextElementSibling` and `previousElementSibling` are two properties that can be used to [[JS - Traversing sideways the DOM|navigate between adjacent siblings]] in the Document Object Model (DOM) using JavaScript. ^1ee8aa
 
 To access the `nextElementSibling` and `previousElementSibling` properties, you need to first select the element you want to use as a reference point. You can do this using any of the DOM selection methods, such as `getElementById`, `getElementsByClassName`, `querySelector`, and so on.
 

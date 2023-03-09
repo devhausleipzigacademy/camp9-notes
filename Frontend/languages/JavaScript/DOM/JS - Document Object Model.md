@@ -20,5 +20,7 @@ DOM node elements are organized by a tree structure, where the document as a who
 ![[JS - Modifying Elements in the DOM#^e9240d]]
 
 
+## Event Listeners
 
+![[JS - Event Listeners#^587f41]]
 
