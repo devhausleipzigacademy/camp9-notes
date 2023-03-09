@@ -1,0 +1,4 @@
+- Object.keys
+- Object.entries
+- Object.fromEntries
+- Object.values
