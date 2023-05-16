@@ -265,12 +265,3 @@ const biggerThanLevelTen = pokemonLevel.filter(level => level > 10);
 console.log(pokemonLevel) // [12, 35, 38, 11]
 
 ```
- 
- 
-## map
-
-```js
-
-
-```
-- reduce
